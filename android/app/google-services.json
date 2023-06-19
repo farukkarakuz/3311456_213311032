@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348082161654",
+    "project_id": "fruk-4029e",
+    "storage_bucket": "fruk-4029e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348082161654:android:acc14f3323d44c887469d7",
+        "android_client_info": {
+          "package_name": "com.example.fruk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348082161654-4uncfn2tuf6hqa6lo0g9c1st19hrfg09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ3GUk3WyjEm3xmoSyVH73QPYp5pyrE24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348082161654-4uncfn2tuf6hqa6lo0g9c1st19hrfg09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
