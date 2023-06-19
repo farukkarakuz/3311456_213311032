@@ -93,7 +93,7 @@ class _profiluserState extends State<profiluser> {
                   padding: const EdgeInsets.all(5.0),
                   child: Center(
                       child: Text(
-                    "Sıkça Sorulan Sorular",
+                    "Not ekle",
                     style: TextStyle(
                       color: Colors.black,
                       fontSize: 20,

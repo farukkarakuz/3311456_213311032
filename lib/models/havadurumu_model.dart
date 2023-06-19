@@ -1,5 +1,4 @@
 
-
 class Hava {
   List<Result>? result;
 
