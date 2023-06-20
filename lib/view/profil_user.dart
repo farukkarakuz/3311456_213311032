@@ -75,34 +75,7 @@ class _profiluserState extends State<profiluser> {
               ))
             ],
           ),
-          Padding(
-            padding: const EdgeInsets.all(15),
-            child: InkWell(
-              onTap: () {
-                Navigator.push(
-                    context, MaterialPageRoute(builder: (context) => MyApp()));
-              },
-              child: Container(
-                width: 300,
-                padding: EdgeInsets.symmetric(vertical: 5),
-                decoration: BoxDecoration(
-                    border: Border.all(
-                        color: Color.fromARGB(255, 0, 230, 118), width: 2),
-                    borderRadius: BorderRadius.all(Radius.circular(30))),
-                child: Padding(
-                  padding: const EdgeInsets.all(5.0),
-                  child: Center(
-                      child: Text(
-                    "Not ekle",
-                    style: TextStyle(
-                      color: Colors.black,
-                      fontSize: 20,
-                    ),
-                  )),
-                ),
-              ),
-            ),
-          ),
+          
         
           Padding(
             padding: const EdgeInsets.all(15),
