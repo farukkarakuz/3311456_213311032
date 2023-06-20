@@ -12,8 +12,8 @@ class log_in extends StatefulWidget {
   State<log_in> createState() => _log_inState();
 }
 
-var email = TextEditingController(text: 'faruk@gmail.com');
-var sifre = TextEditingController(text: 'faruks');
+var email = TextEditingController();
+var sifre = TextEditingController();
 AuthService _authService = AuthService();
 
 class _log_inState extends State<log_in> {
